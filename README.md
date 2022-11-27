@@ -11,7 +11,7 @@ A maintained inter-process-communication extension for Pycord
 
 ## Installation
 
-Python >= 3.8 is required.
+Python >= 3.8 is required. (Note that this lib is not ready for install yet)
 
 ```bash
 pip install pycord-ipc
