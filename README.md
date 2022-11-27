@@ -9,6 +9,12 @@ A maintained inter-process-communication extension for Pycord
 - Optional use of `uvloop` (only on MacOS and Linux)
 - **This is not ready for production use, and is currently in the planning stages.**
 
+## To-Do
+
+- [ ] Redo the whole entire lib from the ground up
+- [ ] Unit Tests
+- [ ] Linting
+
 ## Installation
 
 Python >= 3.8 is required. (Note that this lib is not ready for install yet)
